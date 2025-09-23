@@ -1,0 +1,19 @@
+* Agrárminisztérium szerkezete
+Két téma:
+** Vízháztartási modellezés
+Távérzékelési adat is.
+
+*** Hidrológiai modellezés és adatelőkészítés
+Hidegvízvölgyi és botankerti adatok.
+
+*** Távérzékelési rész
+Párolgás, levélfelület.
+
+** Vízvisszatartás
+*** Feltáró hálózathoz
+
+*** Egyéb vízvisszatartás
+
+*** Geoinformatikai
+Holvan és fényképek hozzákapcsolása, Adatbázis létrehozása.
+Részletes nem lehet.
