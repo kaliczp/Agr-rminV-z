@@ -6,6 +6,7 @@ Távérzékelési adat is.
 *** Hidrológiai modellezés és adatelőkészítés
 Hidegvízvölgyi és botankerti adatok.
 Vezető Kati, Péter, Lili, Kati
+Bence, András
 
 *** Távérzékelési rész
 Párolgás, levélfelület.
@@ -25,6 +26,7 @@ Terepi megtekintése.
 
 Andris vezeti.
 Zoli, Péter, Tomi.
+Bence, András
 
 *** Geoinformatikai
 Holvan és fényképek hozzákapcsolása, Adatbázis létrehozása.
