@@ -5,15 +5,29 @@ Távérzékelési adat is.
 
 *** Hidrológiai modellezés és adatelőkészítés
 Hidegvízvölgyi és botankerti adatok.
+Vezető Kati, Péter, Lili, Kati
 
 *** Távérzékelési rész
 Párolgás, levélfelület.
+Péter fogja össze.
+Géza, Botond, Gábor, Bence
 
-** Vízvisszatartás
+** Vízvisszatartást javító aktív beavatkozások
 *** Feltáró hálózathoz
+Minden, ami feltáróhálózathoz kapcsolódik. Tapasztalatok és javaslatok.
+Péter, Balázs, Andris
+Akinek van kapacitása vezeti.
 
 *** Egyéb vízvisszatartás
+Témája irodalmazás és esettanulmány meglátogatása.
+Tározók, medertározás, fennékküszöb. Tapasztalatok és javaslatok.
+Terepi megtekintése.
+
+Andris vezeti.
+Zoli, Péter, Tomi.
 
 *** Geoinformatikai
 Holvan és fényképek hozzákapcsolása, Adatbázis létrehozása.
-Részletes nem lehet.
+Részletes nem lehet. Dokumentációk és helyek összefogása
+
+Kornél, Áron, Tomi, Andris, Zoli, Péter
