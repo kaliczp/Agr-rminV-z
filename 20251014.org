@@ -1,0 +1,26 @@
+* 1. projekt rész
+Erdőállományok vízháztartásának modellezésére egyszerű vízmérleg modell adaptálása erdőterületre
+
+Modellfejlesztés Lilivel programozás
+
+Met adatok napicsap, napi(havi)hőmérsékletek
+
+HÁZ, hőm., csap., Vig P. adatai.
+
+Talajnedvességmérő.
+Kökény Gergőnek veszünk. Ohatra nem rakunk.
+
+** Talajnedvesség
+Saját helyeinkre és Gergőnek.
+
+Bolla Bencének
+
+Meter
+
+Legyenek határidők:
+
+Kati HÁZ rendberakása és Botankert.
+
+
+** Távérzékelés
+FAO-nak nagy felbontású adatok. Jövő héten körbejárjuk.
