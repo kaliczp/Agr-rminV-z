@@ -24,3 +24,14 @@ Kati HÁZ rendberakása és Botankert.
 
 ** Távérzékelés
 FAO-nak nagy felbontású adatok. Jövő héten körbejárjuk.
+
+* I/2 csoport
+Szegmentáls. Ide még Áron.
+
+* Egyéb
+Gábor csinált objektumokat. Bükköshöz szkennelő és tölgyeshez szkennelőt.
+Lézerszkennelések.
+
+Göncz Miklós TDK-ba agrárminisztériumi támogatást beírni.
+
+Nekünk a LAI és párolgás kell. Távérzékeléssel. Napi LAI idősor az intercepcióhoz.
