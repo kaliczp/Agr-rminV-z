@@ -1,0 +1,94 @@
+Utaztam és Teamsen.
+
+Gribovszki Zoli vezeti.
+
+Geos csoport.
+
+Vízháztartási modell
+
+Mit írtunk?
+
+Területek kiegészítő hidrometeorológiai mérései.
+
+Modellhez kell:
+- LAI
+- távérzékelt párolgás
+- geometria :: mérő objektum, hol a koronák és az objektumok. Az objektumok helye,ez a pont
+  nem érdekes annyira.
+
+A két első fontos. Hol vannak az objektumok az a fontos. Többször
+átbeszéljük és rajzol.
+
+Területeken futnak a modellek. Nem mindig sík a terület. B és KTT
+lejtős a terület.  A koronák kapcsolódnak törzsi lefolyás
+mérőkhöz. Területét kellene tudni, hogy mekkora tartozik a
+lefolyókhoz. Átmérőkhöz arányos a felület. Ami fentről kell a
+modellhez, LAI változás.  A másik kettő statikus. Napi idősor, heti
+észlelés. Napi idősor kell. Párolgásnál elég havi.
+
+Azért kell napi, mert a csapadék napi lesz. Műhold alapú adatok. LAI és párolgás
+távérzékelt.
+
+- Gábor földi szkenner
+- Botond repülés
+- Bence Géza a távérzékelt adatok.
+
+Levél felületnél Sentinel. MODIS durva.
+
+Botond: Sentinelnek nincs párás sáv? 60 m-es lehet? Meg kell nézni, hogy hol vannak
+a kerteknek a szélei. Ki kell menni a terepre. Közösen végigjárjuk a helyeket.
+
+Bakony, Kökény Gergő voltak a repülések.
+
+Gábor az égerre csinált felmérést.
+
+Volt korábban a bükkösre mérés. Zoli szerint érdemes újra megcsinálni.
+
+Terepbejárás fontos lenne.
+
+A távérzékelt termékeket megnézni. ET-hez linket küld Zoli.
+
+LAI nincs tipp. Planet scope? Vagy valami? Jobb lenne a nagy
+felbontás. Planet vagy Sentinel.
+
+Terepi referenciát mérni. Jobban használható legyen az adott területre. Levelet gyűjtöttünk,
+abból lehet maximumot becsülni.
+
+Hónap múlvára gondoljuk át, hogy hogyan lehet felépíteni a munkát. Diplomatervező
+a munkát csinálja, dokumentáció. Egyszerűsít vagy bonyolít? Témákat fel lehet dobin
+a földmérőknek is.
+
+Nehéz illeszteni a nagy pixelekre, alacsonyabb volt. Terület tömbjére
+vonatkozó. Néhány pixel kell.
+
+Doktorihoz is illeszthető. Jó lenne, ha cikk is születnme, ne csak a kutatási
+jelentés.
+
+Sentinelnek aerosol sávja van.
+
+Sentinelnek van-e összehasonlít. Sentinel3-nál van termék.
+Dinamikát visszaadja.
+
+Géza ez előtt jött Zoli elmondja neki a munkát. Hidrológiai modellezéshez kell
+az intercepciós dolgot bevinni. Napi csapadék, napi LAI interpolálva kell. Méréseket
+Kati nézi. Az elmúlt 20 év.
+
+Kökény Gergőnél vannak vizsgálatok. Alapvetően a soproni területek. LAI és ET légi lézer
+szkenner és objektumokhoz földi szkenner.
+
+Kövi alkalomra, hogyan tervezünk. Géza és Bence együtt és Botond is tanácskozna,
+Gábor önállóan dolgozna. Egyes helyeken szeletek kellenek Zolinak. Korona
+vertikálisan hogyan tagolódik, alulról, fölülről.
+
+Mindenből egy cikk lenne ideális. Konferenciát is lehetne csinálni. Keresünk tárhelyet.
+
+Géza főleg tanácsadó.
+
+Korona szegmentálást Botond kép alapján csinálná. Mi ötletet adtuk.
+
+Modell fejlesztése jövő szept. Nyár elejére meglegyen. Lombtalan jó lenne.
+Nyugodtan lehet kaptunk.
+
+Költségvetés ment. Bokán Móni felmondása. Innen intézeti értekezlet.
+
+Csapadékra is jó lenne adat? Csapadékmérés van közel.

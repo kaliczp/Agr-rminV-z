@@ -1,0 +1,126 @@
+* Mi a projekt címe?
+Erdőállományok vízháztartásának medellezése aktív javító gazdálkodási lépesek kidolgozása
+
+Klímaadaptációs Fórum 14 órától!
+
+** Jelen
+- HoTi
+- PrPé
+- KiBa
+- SzÁr
+- GrZo
+- KaPé
+- KaFiMá
+
+** Feladat
+Összegyűjteni a beavatkozásokat.
+- Kaszó
+- Mályvád Békés
+- Bakonyerdő
+- Mátra
+- Börzsöny
+- Nyíredő, amikről tudunk, ezeket rendszerezni.
+
+Sopron környékén beállítani kísérletet. Melyik lenne a jó.
+
+Vadka árok és Farkas árok kifolyójánál van egy hely. Fura hely, akár egy tó is lehetne.
+Máshol is lehet. Messze nem érdemes menni. Oda kell, ahová rendszeresen járunk, egyszerű
+mérések kellenek, amit erdészek is tudnak.
+
+Andris elkezdett irodalmazni. Mindenféle irodalmat keres. Akadémiai bizottságoknál
+beavatkozásokat néznek. Ahhoz irodalmaz. Lesznek felvezető ötletek.
+
+Kérdőív, ami elmegy az erdőgazdaságokhoz. Vázat elkezdenek kidolgozni. Jövő héten
+ennek lenne megbeszélése.
+
+Ez most összevont munkacsoport.
+- Beavatkozást tervezi
+- Térképezi
+
+A kamarai fórum agrárminisztérium megtervezi. Bejönnek az ötletek, beavatkozások,
+eldönteni, hogy melyiket milyen mélységig végiglátogatjuk. Egy-egy erdőgazdasághoz elmenni,
+ahol összefogottabban megy. Fotodokumentáció, drónos repülés, beavatkozások.
+Ezt kellene egy geoinformatikai rendszerbe összefogni. Olyan kellene, amit egy normál
+felhasználó is tudna kezelni bárhonnan. Információkat linken. QGIS mennyire magas?
+
+Mi lenne a célja, hogy mindenki nézegesse. Sima web térkép kell. Mint az erdő térkép.
+Geoadatbázis. Drónos repülés, leíró jellegű információ. Történet, elérhetőség.
+Agrárminisztériummal kompatibilis. Erdőtérképbe beintegrálni?
+
+Épül az adatbázis excel táblába. Át kell gondolni a formát és a struktúrát. Ötletelünk
+és alakulnak a dolgok.
+
+Geoinformatikai adatbázis opcionális. Nyár végére jelentés. Legyen belső cél
+az adatbázis, de itt csak leadni.
+
+** Feladatok
+- irodalmazás
+- kérdőívezés (adatbázisra kész)
+- sopron környéki helyet
+  - mennyi víz folyik le
+  - mennyi marad ott
+  - hogyan változik
+
+Ki tudja kiválasztani. PrPé ami út és vízelvezetése van, nem tud visszatartani
+vizet. Senki nem javasolja, hogy az út mellett ne maradjon. Megnéznék az irodalmat.
+Ő már előkutatgatot. Utnál vizet visszatartani,
+
+SzÁr a Hanságba emlékezett. Út gát, és nem megy át a víz. Egyik
+oldalon pang, másik oldalon kiszáradnak. Továbbképzésnek lehet
+témája. Múltkor jöbb Brünn és nem kerestek.
+
+SzÁr Kornélnál volt projekt. Dudles vízvisszatartás, elvileg megvan
+minden. Botond részeket járt be. Dudles havonta egyszer, két embernek
+egy nap és adatfeldolgozás. Áronnak 8/m^2 van. Kornél sűrűbett mondott.
+
+Mivel mérik a vízvisszatartást, talajnedvesség és talajvíz. Egyszerű
+dolgokat kell csinálni.  Talajnedvesség bonyolultabb,
+drágább. Ideiglenes vízállás, talajvíz megemelkedik.
+
+- irodalmazunk és
+- kiválasztunk egy területet.
+
+Burkolatlan utak, kivezeted, távolabb elviszed.
+
+Balázs szerint van irodalom. Módosítja, hogyan módosítja. Megvizsgálni,
+hogy hol van topográfiai depresszió?
+
+- irodalmazás
+- kérdőív jellege
+- és néhányat megnézni.
+
+Jó lenne, ha az erdőgazdaságoknál lenne felelős. SzÁr szerint biztos lesz
+kijelölve.
+
+Célszerű diplomatervet. Kanizsay Botondhoz kimenni. Ötletelni kimenni.
+Tervezett beavatkozás és mi történik? Kontroll időszak és kontroll
+hely kell.
+
+Elkezdjük, mérünk két évet és utána avatkozunk be. Folcz Ádámmal egyeztetni.
+PrPé: Külsősre nem lehet számítani.
+
+ERTI Bolla Bence volt valahol.
+
+KiBa erdészeti út vízvisszatartás Misi ERFARET tanumánya. Utak hogyan
+avatkozank be a vízháztartásba.
+
+Feladatot és határidőt rendeljünk.
+
+PrPé január-februárba leütni, hogy mi lenne?
+
+Egy út szerepe, amíg nincs eső, nem mutatkozik meg.
+
+Csapadékesemény után hány nappal mutat valamit a talajvízszintben.
+PrPé vannak irodalmak, utána hogyan változik a talajvíz.
+
+Összegyűlt vizet máshol hasznosítod. PrPé építő dolgot nem tudunk csinálni.
+Ha esik az eső, akkor intenzívebben mérni.
+
+Minimális erőfeszítéssel fenntartható kísérlet.
+
+Nagy felbontású lidar, finom domborzat.
+
+Kanada nem tudja, hol az út, speciális lidar, precízen méri a domorzatot.
+Cső végére valamit adni.
+
+KiBa modell, három betű Y. Kifejezetten cső modell.
