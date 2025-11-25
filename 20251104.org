@@ -1,0 +1,71 @@
+* Aktuális kiírás
+
+* Adatbázis
+Mégis jó lenne egy egyszerű
+
+* Menetrend
+Gantt diagrammot csinálunk. Már a projekt tervezésnél szokták.
+Sima excel, amin részek színezettek.
+
+* Téli teendők
+Tapasztalat gyűjtés.
+
+Régi ERFARET tartalomjegyzék kinyomtatva. Péterék ebből indulhatnak.
+
+Tomi: Ilyen objektumot hogyan vesznek fel?
+ Felmérés? Kaliczka könyvében lehet valami. A könyv félrement kicsit (mindent GPSszel),
+ abból ki lehet indulni.
+
+Áron gondolkozzon a geoinformatikai rendszeren.
+
+* Tartalomjegyzék
+Balázsékkal azt nézzük. Misi készítette. Mi bedolgoztunk.
+2013 januárjában született.
+
+Eőkészítés és alapok. Esettanulmányok is vannak.
+Hernyéki vadaskert átjáró. Szakdolgozatok és diplomamunkák is vannak.
+
+Pályaszerkezet víztelenítése. Utasok kiemelnék, hogy kell.
+Tominak is átküldte Zoli.
+
+Hosszirányú vízelvezetés. Talpárok és szivárogtató árok. Ennek kapcsán a Botanikuskertre
+készült tanulmány hasznos lehetne. Abban is vannak szivárogtatók.
+
+Nem volt kérdőív a másik munkabizottságban. Tomi volt ilyen kérdőívben.
+Normális válaszok kellenek először. Velük előtte egyeztetni.
+
+Tomi beszélt Katival, hogy Lauráéknak is van erdőgazdaságos feladat. Ebben egyeztetni.
+Föltérképezni, hogy hol mi van, hol van fogadókészség?
+
+Mutatták a táblázatot, akik kapcsolattartók. A minisztérium már kért
+tájékoztatás, de inkább a beruházások kapcsán. Minden erdőgazdaságot meg kellen kérdezni.
+Primusz szerint a kapcsolattartók.
+
+Primusz szerint nem arról van szó, hogy adaptálódunk. Infrastruktúránál már engedik el.
+Mit akarunk tudni.
+
+- Milyen beavatkozás van?
+- Milyen beruházások?
+
+Zoli minden erdőgazdaságnál kapcsolattartó van. Azoknak a személyeknek lesz email címe,
+arról adatbázist csinálni. 2-3 hegyvidék, 2-3 síkvidék.
+
+Nincsenek erdőgazdaságnál megrázó űjdonságok.
+
+Jön egy nagy csapadék esemény, elmegy az egész út. Nem véletlenül vannak ott
+a vízelvezető rendszerek. Az út nem bírja a nagy vizet. Misi nem tért el.
+Vagy az utat vizsgáljuk.
+
+Primusz szerint az útleltárat csinálni. Adatbázist építeni.
+
+Kornél is szkeptikus. Nagyon nehéz a hierachián keresztül összeíni. Gyulajnak csináltak
+hat tókát létesíteni lézerszkenner adatokról. Kornél szerint automatikusan ki lehet szedni.
+Ki legyen aki Kornélnál dolgoznak. Sorban állnak a szakdolgozók.
+
+Egy évre 50 e Ft egy kisebb szerver. Ki lehet ajánlani. Elvileg egy
+rétegként fel lehet tenni az erdőtérképként. Ez egy Geoserver a
+háttérben. Pontszerű réteg a beavatkozásokkal.
+
+Kaszó is felújított útján. Primusz szerint utas szempontból nincs izgalmas.
+
+Lezártuk, intézeti értekezlet.
