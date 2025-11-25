@@ -1,0 +1,87 @@
+#+TITLE: Geós megbeszélés
+
+Késtem. A táblán:
+- repülés
+- DDM
+- famagasság (h)
+- pozíció (x,y)
+
+LAI SAI levezetés.
+
+Bence Sentinel adatokból 10 m-es is van.
+
+Bele is esik.
+
+Planet 3*3 m-es képek. Pozíció bizonytalan. Patch lekérése.
+
+A 3. gen Planet 8 sáv, 5 sáv ami érdekes a vegetációnak. A másik három nem.
+
+A képzők képzésénél második résznél Johann Ferrest készített
+modelleket. Hiperspektrálisból lehet előállítani LAIt. 30 m felbontás
+Prisma és Mnet? műholdakból. Ő is hangsúlyozza, hogy a legfontosabb a LAI.
+
+Artmootoolbox gépi tanulássall. Kellene referencia adat. Milyen a levelek elhelyezkedése.
+Vsz, szöget zár be. Nem kell sok cikk. Ötnél ne legyen több.
+
+SAI geometriából levezethető. LAI másik.
+
+Tározási kapacitás az időben hogyan változik.
+
+Vízmérleg havi. Csapadék + intercepció napi. Havi megbízható érték. Heti lenne...
+
+Napi interpolálod a hetit vagy a havit. Planet gyakori.
+
+Sentinel Sopronba gyakran. Havonta 4-5 adat.
+
+* Labor vizsgálat
+Hideg és meleg környezetben az intercepciós kapacitás.
+
+* Folyt
+Bence: Planet 2022-től SuperDove műholak. Kb. Sentinel sávok, korábban más érzékelők.
+Zoli: Itteni fenyvesben előtte nincs is adat.
+
+Különböző skálákon megnézni. Rövid időre fókuszálni.
+
+Interceocuübük 2017 adat, vannak korábbról is.
+
+MODIS + a többi idősor.
+
+Globális modellek egy-egy pont esetében hogyan változik? Milyen
+termékek, miből számít? Térbeli és időbeli számítás.
+
+Planet 8 sáv NDVI számolható. Kompatibilis Sentinel sávokkal.
+
+MODIS ET és PET is van. Sentinelből korrelációs kapcsolattal lehet?
+Olyan pontokat kiszedni, amikor nem volt eső. Először MODIS, utána Sentinel mit ad?
+
+* Korona
+Botondnak korona. Összehasonlítani ezt és a klasszikus módszert. Korona felület kidolgozott.
+Botond inverz vízgyűjtő. Szegmentálás.
+
+Voltak diplomatervezők.
+
+Botond kiadja. Újra átgondolod, hogy az is segít. Kidolgozva és ledokumentálva. Behúzni
+embereket.
+
+Kende.
+
+Botond repülne és optikai felvételekkel nem lézer.
+
+* Témák
+- Botondnak segít a repülésbe. Ledokumentálja. SAI, pozíció, famagasság és pozíció.
+  Lehet a téli és nyárira adat.
+- LAI topic Bencének segít. Akár három ember a három műholdrendszerrel.
+- Párolgással foglalkozó.
+- Lézerszkenner
+
+* Feladat
+- Botondnak mi kell az előzetes bejáráshoz.
+- Bencének milyen termékek, milyen felbontásban vannak? Hol elérhető, milyen cikkek?
+
+Említett Johann foglalkozik vele, hiperspektrális, nem használjuk, milyen?
+
+Prizma és MMap is elérhető.
+
+Ha haladunk, akkor Dudles.
+
+Forestes cikket elküldi.
