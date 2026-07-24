@@ -1,0 +1,21 @@
+* Botond
+Pontfelhő, domborzat modell és műtárgyak.
+Betanít egy programba.
+Sharepont cloud studio.
+Nézegetni és méregetni kell.
+
+- téli repülés
+  - csak lézer
+- Nyári
+  - ortofoto
+  - lombkorona modell
+  - koronaszegmentálás
+  - egyes koronákva indexek
+
+Sharepoint cloud studio jobb nézegetni. Grafikus kártya igény, nem
+akkora, nézegetésnél leritkítja. Távolság, terület, szög mérhető.
+
+Jelentés moduláris, ne legyen extra hosszú. Linkek, elejére absztrakt,
+fél oldalnál nem hosszabb. Július végéig.
+
+Jelentés augusztusban.
