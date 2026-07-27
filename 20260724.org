@@ -7,3 +7,11 @@ Módosítás indoklása.
 
 - tárhely
 - hosszabbítás indoklására kell fektetni a hangsúlyt
+
+** Indoklás
+Rendkívül száraz időszak lehetőség a további vizsgálatra. A minterületeken extrém száraz
+időjárás a visszatöltödés megkezdődését a vegetációs időszak végén.
+A következő hidrológiai év kezdete.
+Ősszel a visszatöltődést tanulmányozni. A visszatartásra alkalmas helyek keresésénél és felmérésénél
+szembesültünk nagy tárhely. Az Egyetemre más projektből beszerszett merev szárnyú drón képes nagy
+területek felmréséhez, a csoportos interaktív munka gyors hozzáférést biztosító tárhelyet igényel.
