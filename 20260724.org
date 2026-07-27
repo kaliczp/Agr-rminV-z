@@ -15,3 +15,76 @@ A következő hidrológiai év kezdete.
 Ősszel a visszatöltődést tanulmányozni. A visszatartásra alkalmas helyek keresésénél és felmérésénél
 szembesültünk nagy tárhely. Az Egyetemre más projektből beszerszett merev szárnyú drón képes nagy
 területek felmréséhez, a csoportos interaktív munka gyors hozzáférést biztosító tárhelyet igényel.
+
+** Indoklás bővített
+
+Vezetői összefoglaló (Executive Summary) A projekt időbeli
+meghosszabbítását a rendkívüli aszályos időjárási körülmények
+indokolják, amelyek korlátozták a hidrológiai modellek validálásához
+szükséges adatgyűjtést. A kutatócsoport célja a teljes hidrológiai
+ciklus lefedése, különös tekintettel a vegetációs időszakot követő
+regenerációs folyamatokra. A hosszabbítás emellett lehetőséget
+biztosít a projekt során beszerzett új eszközök (dróntechnológia)
+integrálására és a megnövekedett adatmennyiség kezeléséhez szükséges
+informatikai háttér optimalizálására.
+
+Részletes indoklás a pályázati hosszabbításhoz
+1. Klimatikus nehézségek és adatvalidáció A kutatási területen
+   tapasztalt elhúzódó, extrém szárazság megnehezítette a
+   modellparaméterek pontos kalibrálását. A talajnedvesség-állapotok
+   drasztikus csökkenése miatt a vizsgálati mintaterületeken a
+   rendszer „leürült”, így az aszályos periódus végén a regenerációs
+   folyamatok monitorozása elengedhetetlenné vált. A modell
+   robusztusságának igazolásához elengedhetetlen a teljes hidrológiai
+   év lezárása, különösen az őszi-téli visszatöltődési folyamatok
+   vizsgálata.
+
+2. Hidrológiai ciklus-elemzés A tervezett meghosszabbítás során a
+   fókusz a csökkenő energiabevételű őszi időszakra esik, amikor a
+   párologtatási veszteségek mérséklődése mellett a csapadék kedvezőbb
+   arányban hasznosul. Ez az időszak teszi lehetővé a vízmérleg modell
+   tesztelését a „száraz” állapotból a „visszatöltődő” állapotba
+   történő átmenet során, amely kritikus a jövőbeli
+   erdőállomány-kezelési stratégiák finomhangolásához.
+
+3. Módszertani fejlesztés és technológiai bővítés A projekt keretében
+   azonosított vízvisszatartási lehetőségek felmérése során
+   szükségessé vált a térinformatikai adatbázis kiterjesztése. Az
+   egyetemi projektállományból elérhetővé vált merevszárnyú drón
+   alkalmazása jelentősen növeli a mérési pontosságot és a felmért
+   terület nagyságát. Ezen technológia integrálása a meglévő geodéziai
+   és hidrometeorológiai adatbázisba azonban kiegészítő időráfordítást
+   igényel az adatok feldolgozása, valamint a nagy volumenű
+   távérzékelt állományok tárolását és közös elemzését biztosító
+   informatikai infrastruktúra kialakítása során.
+
+Megjegyzés: A kérelmet az intézményi dokumentumokban előírt formai követelményeknek megfelelően javaslom véglegesíteni, az érintett tanszék/intézet vezetőjének jóváhagyásával. Amennyiben a hosszabbítás a pénzügyi keretek módosítását is érinti, kérjük, egyeztessen a Pénzügyi Osztállyal.
+
+Auto mode
+
+** Indoklás
+A projekt meghosszabbítását elsősorban a rendkívül aszályos időjárási
+körülmények indokolják. Ez az általa okozott károk mellett a
+projektnek komoly lehetőséget ad a beálljtott mintaterületen a
+változások jól dokumentált nyomonkövetésére.
+
+A projket meghosszabbítása esetén a mérések folytatódnak fókusz a
+csökkenő energiabevételű őszi időszakban is, amikor a párologtatási
+veszteségek mérséklődése mellett a remélhető őszi csapadék is
+kedvezőbb arányban hasznosul. Ennek az időszaknak a megfigyelése
+lehetőséget biztosít a vízmérleg modell további tesztelésére is a
+leürült száraz állapot után iduló a visszatöltődés megfigyelése által,
+amely segíthet a jövőbeli erdőkezelési stratégiák finomhangolásában.
+
+A kutatás során e miatt célszerú lenne a teljes hidrológiai évet
+mérésekkel lefedni, tanulmányozni a. A hosszabbítás emellett
+lehetőséget biztosít a projekttől függetlenül beszerzett új LiDAR eszközök
+integrálására és a megnövekedett adatmennyiség kezeléséhez szükséges
+informatikai háttér optimalizálására.
+
+** Indoklás átnézett
+A projekt meghosszabbítását elsősorban a rendkívül aszályos időjárási körülmények indokolják. Ez a szárazság által okozott károk mellett a projektnek komoly lehetőséget ad a beállított mintaterületeken a szárazodás okozta változások jól dokumentált nyomon követésére.
+
+A projekt meghosszabbítása esetén a mérések folytatódnak a csökkenő energiabevételű őszi időszakban is, amikor a párologtatási veszteségek mérséklődése mellett a remélhető őszi csapadék is kedvezőbb arányban hasznosul. Ennek az időszaknak a megfigyelése lehetőséget biztosít a vízmérleg modell további tesztelésére is a leürült száraz állapot után induló visszatöltődés megfigyelése által, amely segíthet a jövőbeli erdőkezelési stratégiák finomhangolásában. A kérvényezett hosszabbítással így éppen le is lehet fedni egy teljes hidrológiai évet mérésekkel.
+
+ A hosszabbítás emellett lehetőséget biztosít a projekttől függetlenül beszerzett új LiDAR eszközök szorosabb integrálására. Tapasztalatokat tudunk szerezni a korábbi megfigyeléseinkkel összevetve jelentősen megnövekedett adatmennyiség kezeléséhez szükséges, a beszerzésekkel megvalósuló, az elemzéseket kiszolgáló informatikai háttér optimalizálására.
